@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: REGENEA
+Build-Jdk: 11.0.4-ojdkbuild
+Class-Path: lib/logback-classic-1.2.3.jar lib/logback-core-1.2.3.jar lib
+ /slf4j-api-1.7.25.jar
+Main-Class: com.irc.bot.MyBotMain
+Created-By: Maven Integration for Eclipse
+
